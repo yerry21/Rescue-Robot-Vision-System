@@ -1,3 +1,3 @@
 # Rescue-Robot-Vision-System
 
-The code lives in the memory and in our hearts
+The code for this thesis lives in the collective memory, the friends we made along the way, and in our hearts
